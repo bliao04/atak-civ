@@ -1,0 +1,7 @@
+#Wed May 28 19:58:57 EDT 2025
+base.1=/Users/bliao/tak/atak-civ/plugins/genuasplugin/app/build/intermediates/dex/civDebugAndroidTest/mergeProjectDexCivDebugAndroidTest/10/classes.dex
+path.1=10/classes.dex
+base.0=/Users/bliao/tak/atak-civ/plugins/genuasplugin/app/build/intermediates/dex/civDebugAndroidTest/mergeProjectDexCivDebugAndroidTest/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
