@@ -1,0 +1,2 @@
+com/atakmap/android/genuasplugin/plugin/test/BuildConfig.java
+ com.atakmap.android.genuasplugin.plugin.test.BuildConfig
