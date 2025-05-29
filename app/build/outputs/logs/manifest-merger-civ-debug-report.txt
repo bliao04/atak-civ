@@ -12,26 +12,51 @@ INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/Androi
 INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml:1:1-30:12
 INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml:1:1-30:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bliao/.gradle/caches/transforms-3/96b7360f407bd15203a8192c74a4f265/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bliao/.gradle/caches/transforms-3/35367551c148565f1c4994c6bb77357b/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/bliao/.gradle/caches/transforms-3/a05bd18288f0f3ff196f4c6b2ee4ef40/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bliao/.gradle/caches/transforms-3/c7dc6d7f04af24940b84397b78aef59f/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/46601e6529ec5a1abdd697a37d55decb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bliao/.gradle/caches/transforms-3/744147276d7b225bdc9c97a329bcb876/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/bliao/.gradle/caches/transforms-3/b9998c48444b9c2c98ac283992709dc4/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/bliao/.gradle/caches/transforms-3/3e0b088ff3e6971d0beb2aa75d663080/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bliao/.gradle/caches/transforms-3/515326e8c74f1c7c83407e1ae08905aa/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-paging:2.5.2] /Users/bliao/.gradle/caches/transforms-3/e4d6e4db8f1666dfb3fda2be98786f3c/transformed/room-paging-2.5.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-ktx:2.5.2] /Users/bliao/.gradle/caches/transforms-3/bebbada39dc7d516f2a8be8c800be413/transformed/room-ktx-2.5.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.5.2] /Users/bliao/.gradle/caches/transforms-3/27ba97aa5ce3d074aa5f399e09f7e9ad/transformed/room-runtime-2.5.2/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/bliao/.gradle/caches/transforms-3/7139606c07f8677814fcbd7c48ac914a/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/bliao/.gradle/caches/transforms-3/bb769ed3f000d9719aeae95ece64b3a9/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/bliao/.gradle/caches/transforms-3/d12e991f295704fcd4975064c3fa546e/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bliao/.gradle/caches/transforms-3/0c7ca205beb25d7d894bad241aedb861/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bliao/.gradle/caches/transforms-3/affdc69aa5325dcbd537cebb4d7218cb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/bliao/.gradle/caches/transforms-3/a357f8fca0f16631239ec32c7c265597/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/bliao/.gradle/caches/transforms-3/a5553bc1afab6097ffb4ca545e3c9c8a/transformed/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/bliao/.gradle/caches/transforms-3/ddd13a7f104570996d2e8ddc908e712b/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/bliao/.gradle/caches/transforms-3/d72d5e78fc03e448ac798e3a8b5bd41d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/bliao/.gradle/caches/transforms-3/44e81dd426742e634e4787acfe375523/transformed/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/46601e6529ec5a1abdd697a37d55decb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/bliao/.gradle/caches/transforms-3/4a28b92eba9ce74de919a98681385389/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bliao/.gradle/caches/transforms-3/a1dbba21c258f48f82f676c09f2c7262/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bliao/.gradle/caches/transforms-3/0d1ae7b1f298382dafe585a45317c1a8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bliao/.gradle/caches/transforms-3/744147276d7b225bdc9c97a329bcb876/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/2b4992e80fb5b5ba21b412e54603cafd/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/f0958d2ab47e014e612cbcad4a83a627/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/bliao/.gradle/caches/transforms-3/da68ae7546806fbd02592d44b2ee1281/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.3.2] /Users/bliao/.gradle/caches/transforms-3/6c7022e37b44f33fa176505d19f0f4b9/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/639b347bf3846528cf03f345a335c74e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bliao/.gradle/caches/transforms-3/c46aed8f6a200324f0212861e78b5e0d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] /Users/bliao/.gradle/caches/transforms-3/c404f802c0f0638f7a6247cddd193aa3/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bliao/.gradle/caches/transforms-3/575be1b55a6e620db30160abd9cfd693/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bliao/.gradle/caches/transforms-3/15d9ac44b0bd70140d2a6fc254466511/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bliao/.gradle/caches/transforms-3/1bb81e3f22b092d974e1df46972e4b0e/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bliao/.gradle/caches/transforms-3/c9a28064a2fe3d9e5956b9acd5090ad8/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bliao/.gradle/caches/transforms-3/2e4562de42fc50086c095d5615182d6e/transformed/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/bliao/.gradle/caches/transforms-3/b4008675790d530985acaded0a9c1592/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/bliao/.gradle/caches/transforms-3/96efce373b4fa7426f61ff97cc5b917b/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/bliao/.gradle/caches/transforms-3/5d03ce44b7407a62b9251f71ee90ab88/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/bliao/.gradle/caches/transforms-3/2f4c824c609645a84fb48412cc6bcca1/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/bliao/.gradle/caches/transforms-3/92050ae2684506fa6bd79a09912ac8e9/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/bliao/.gradle/caches/transforms-3/bcae19122bebd4805bbb1cf4308d0427/transformed/sqlite-2.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/bliao/.gradle/caches/transforms-3/f033f7d8b9b5fa3cfa423bfd73c1facd/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/bliao/.gradle/caches/transforms-3/7baf7cff6d96096918791370721d2191/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bliao/.gradle/caches/transforms-3/a3db49a19193985b98dba7862d5aacca/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/bliao/.gradle/caches/transforms-3/31cf146fb0c363e600f8d8254795b093/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/bliao/.gradle/caches/transforms-3/766653cd0e1023edda7098bd7ab9e0c0/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bliao/.gradle/caches/transforms-3/de10287399df374a5a4b37426704c04d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bliao/.gradle/caches/transforms-3/e8cfb404745fb631fdd02a7ab43c0e8a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bliao/.gradle/caches/transforms-3/cc7854e8af27f0d7354cd6173cf1054c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bliao/.gradle/caches/transforms-3/d7d410ecb54579e1473e0d4be42ec03e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bliao/.gradle/caches/transforms-3/c5d31be5e7858d792bf14a0dcf5b17b3/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bliao/.gradle/caches/transforms-3/0fd43e6be134604e3cf9f531421b6a67/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bliao/.gradle/caches/transforms-3/6c0877f3bb35f52998565b055cfd86b3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/bliao/.gradle/caches/transforms-3/c948c48bd048a835be1797babc72c083/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bliao/.gradle/caches/transforms-3/f62ef8f6a4f8e4cf6e1ae423c7f72529/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml:1:1-30:12
 INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml:1:1-30:12
 INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml:1:1-30:12
@@ -57,14 +82,24 @@ application
 ADDED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml:6:5-28:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bliao/.gradle/caches/transforms-3/96b7360f407bd15203a8192c74a4f265/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bliao/.gradle/caches/transforms-3/96b7360f407bd15203a8192c74a4f265/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.3.2] /Users/bliao/.gradle/caches/transforms-3/6c7022e37b44f33fa176505d19f0f4b9/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.2] /Users/bliao/.gradle/caches/transforms-3/6c7022e37b44f33fa176505d19f0f4b9/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bliao/.gradle/caches/transforms-3/15d9ac44b0bd70140d2a6fc254466511/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bliao/.gradle/caches/transforms-3/15d9ac44b0bd70140d2a6fc254466511/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.5.2] /Users/bliao/.gradle/caches/transforms-3/27ba97aa5ce3d074aa5f399e09f7e9ad/transformed/room-runtime-2.5.2/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.2] /Users/bliao/.gradle/caches/transforms-3/27ba97aa5ce3d074aa5f399e09f7e9ad/transformed/room-runtime-2.5.2/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/bliao/.gradle/caches/transforms-3/7139606c07f8677814fcbd7c48ac914a/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/bliao/.gradle/caches/transforms-3/7139606c07f8677814fcbd7c48ac914a/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.8.0] /Users/bliao/.gradle/caches/transforms-3/c404f802c0f0638f7a6247cddd193aa3/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/bliao/.gradle/caches/transforms-3/c404f802c0f0638f7a6247cddd193aa3/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/bliao/.gradle/caches/transforms-3/96efce373b4fa7426f61ff97cc5b917b/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/bliao/.gradle/caches/transforms-3/96efce373b4fa7426f61ff97cc5b917b/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/bliao/.gradle/caches/transforms-3/31cf146fb0c363e600f8d8254795b093/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/bliao/.gradle/caches/transforms-3/31cf146fb0c363e600f8d8254795b093/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bliao/.gradle/caches/transforms-3/de10287399df374a5a4b37426704c04d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bliao/.gradle/caches/transforms-3/de10287399df374a5a4b37426704c04d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
 		ADDED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml:11:9-41
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.2] /Users/bliao/.gradle/caches/transforms-3/6c7022e37b44f33fa176505d19f0f4b9/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.8.0] /Users/bliao/.gradle/caches/transforms-3/c404f802c0f0638f7a6247cddd193aa3/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml:9:9-41
 	android:icon
@@ -100,46 +135,96 @@ INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/Androi
 INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bliao/.gradle/caches/transforms-3/96b7360f407bd15203a8192c74a4f265/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bliao/.gradle/caches/transforms-3/96b7360f407bd15203a8192c74a4f265/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bliao/.gradle/caches/transforms-3/35367551c148565f1c4994c6bb77357b/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bliao/.gradle/caches/transforms-3/35367551c148565f1c4994c6bb77357b/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/bliao/.gradle/caches/transforms-3/a05bd18288f0f3ff196f4c6b2ee4ef40/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/bliao/.gradle/caches/transforms-3/a05bd18288f0f3ff196f4c6b2ee4ef40/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bliao/.gradle/caches/transforms-3/c7dc6d7f04af24940b84397b78aef59f/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bliao/.gradle/caches/transforms-3/c7dc6d7f04af24940b84397b78aef59f/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/46601e6529ec5a1abdd697a37d55decb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/46601e6529ec5a1abdd697a37d55decb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bliao/.gradle/caches/transforms-3/744147276d7b225bdc9c97a329bcb876/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bliao/.gradle/caches/transforms-3/744147276d7b225bdc9c97a329bcb876/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/bliao/.gradle/caches/transforms-3/b9998c48444b9c2c98ac283992709dc4/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/bliao/.gradle/caches/transforms-3/b9998c48444b9c2c98ac283992709dc4/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/bliao/.gradle/caches/transforms-3/3e0b088ff3e6971d0beb2aa75d663080/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/bliao/.gradle/caches/transforms-3/3e0b088ff3e6971d0beb2aa75d663080/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bliao/.gradle/caches/transforms-3/515326e8c74f1c7c83407e1ae08905aa/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bliao/.gradle/caches/transforms-3/515326e8c74f1c7c83407e1ae08905aa/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-paging:2.5.2] /Users/bliao/.gradle/caches/transforms-3/e4d6e4db8f1666dfb3fda2be98786f3c/transformed/room-paging-2.5.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-paging:2.5.2] /Users/bliao/.gradle/caches/transforms-3/e4d6e4db8f1666dfb3fda2be98786f3c/transformed/room-paging-2.5.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.2] /Users/bliao/.gradle/caches/transforms-3/bebbada39dc7d516f2a8be8c800be413/transformed/room-ktx-2.5.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.2] /Users/bliao/.gradle/caches/transforms-3/bebbada39dc7d516f2a8be8c800be413/transformed/room-ktx-2.5.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.5.2] /Users/bliao/.gradle/caches/transforms-3/27ba97aa5ce3d074aa5f399e09f7e9ad/transformed/room-runtime-2.5.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.2] /Users/bliao/.gradle/caches/transforms-3/27ba97aa5ce3d074aa5f399e09f7e9ad/transformed/room-runtime-2.5.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/bliao/.gradle/caches/transforms-3/7139606c07f8677814fcbd7c48ac914a/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/bliao/.gradle/caches/transforms-3/7139606c07f8677814fcbd7c48ac914a/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/bliao/.gradle/caches/transforms-3/bb769ed3f000d9719aeae95ece64b3a9/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/bliao/.gradle/caches/transforms-3/bb769ed3f000d9719aeae95ece64b3a9/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/bliao/.gradle/caches/transforms-3/d12e991f295704fcd4975064c3fa546e/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/bliao/.gradle/caches/transforms-3/d12e991f295704fcd4975064c3fa546e/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bliao/.gradle/caches/transforms-3/0c7ca205beb25d7d894bad241aedb861/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bliao/.gradle/caches/transforms-3/0c7ca205beb25d7d894bad241aedb861/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bliao/.gradle/caches/transforms-3/affdc69aa5325dcbd537cebb4d7218cb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bliao/.gradle/caches/transforms-3/affdc69aa5325dcbd537cebb4d7218cb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/bliao/.gradle/caches/transforms-3/a357f8fca0f16631239ec32c7c265597/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/bliao/.gradle/caches/transforms-3/a357f8fca0f16631239ec32c7c265597/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /Users/bliao/.gradle/caches/transforms-3/a5553bc1afab6097ffb4ca545e3c9c8a/transformed/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/bliao/.gradle/caches/transforms-3/a5553bc1afab6097ffb4ca545e3c9c8a/transformed/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/bliao/.gradle/caches/transforms-3/ddd13a7f104570996d2e8ddc908e712b/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/bliao/.gradle/caches/transforms-3/ddd13a7f104570996d2e8ddc908e712b/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/bliao/.gradle/caches/transforms-3/d72d5e78fc03e448ac798e3a8b5bd41d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/bliao/.gradle/caches/transforms-3/d72d5e78fc03e448ac798e3a8b5bd41d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/bliao/.gradle/caches/transforms-3/44e81dd426742e634e4787acfe375523/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/bliao/.gradle/caches/transforms-3/44e81dd426742e634e4787acfe375523/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/46601e6529ec5a1abdd697a37d55decb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/46601e6529ec5a1abdd697a37d55decb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/bliao/.gradle/caches/transforms-3/4a28b92eba9ce74de919a98681385389/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/bliao/.gradle/caches/transforms-3/4a28b92eba9ce74de919a98681385389/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bliao/.gradle/caches/transforms-3/a1dbba21c258f48f82f676c09f2c7262/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bliao/.gradle/caches/transforms-3/a1dbba21c258f48f82f676c09f2c7262/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bliao/.gradle/caches/transforms-3/0d1ae7b1f298382dafe585a45317c1a8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bliao/.gradle/caches/transforms-3/0d1ae7b1f298382dafe585a45317c1a8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bliao/.gradle/caches/transforms-3/744147276d7b225bdc9c97a329bcb876/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bliao/.gradle/caches/transforms-3/744147276d7b225bdc9c97a329bcb876/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/2b4992e80fb5b5ba21b412e54603cafd/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/2b4992e80fb5b5ba21b412e54603cafd/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/f0958d2ab47e014e612cbcad4a83a627/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/f0958d2ab47e014e612cbcad4a83a627/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/bliao/.gradle/caches/transforms-3/da68ae7546806fbd02592d44b2ee1281/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/bliao/.gradle/caches/transforms-3/da68ae7546806fbd02592d44b2ee1281/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.3.2] /Users/bliao/.gradle/caches/transforms-3/6c7022e37b44f33fa176505d19f0f4b9/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.2] /Users/bliao/.gradle/caches/transforms-3/6c7022e37b44f33fa176505d19f0f4b9/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/639b347bf3846528cf03f345a335c74e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bliao/.gradle/caches/transforms-3/639b347bf3846528cf03f345a335c74e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bliao/.gradle/caches/transforms-3/c46aed8f6a200324f0212861e78b5e0d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bliao/.gradle/caches/transforms-3/c46aed8f6a200324f0212861e78b5e0d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] /Users/bliao/.gradle/caches/transforms-3/c404f802c0f0638f7a6247cddd193aa3/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/bliao/.gradle/caches/transforms-3/c404f802c0f0638f7a6247cddd193aa3/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bliao/.gradle/caches/transforms-3/575be1b55a6e620db30160abd9cfd693/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bliao/.gradle/caches/transforms-3/575be1b55a6e620db30160abd9cfd693/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bliao/.gradle/caches/transforms-3/15d9ac44b0bd70140d2a6fc254466511/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bliao/.gradle/caches/transforms-3/15d9ac44b0bd70140d2a6fc254466511/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bliao/.gradle/caches/transforms-3/1bb81e3f22b092d974e1df46972e4b0e/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bliao/.gradle/caches/transforms-3/1bb81e3f22b092d974e1df46972e4b0e/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bliao/.gradle/caches/transforms-3/c9a28064a2fe3d9e5956b9acd5090ad8/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bliao/.gradle/caches/transforms-3/c9a28064a2fe3d9e5956b9acd5090ad8/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bliao/.gradle/caches/transforms-3/2e4562de42fc50086c095d5615182d6e/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bliao/.gradle/caches/transforms-3/2e4562de42fc50086c095d5615182d6e/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/bliao/.gradle/caches/transforms-3/b4008675790d530985acaded0a9c1592/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/bliao/.gradle/caches/transforms-3/b4008675790d530985acaded0a9c1592/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/bliao/.gradle/caches/transforms-3/96efce373b4fa7426f61ff97cc5b917b/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/bliao/.gradle/caches/transforms-3/96efce373b4fa7426f61ff97cc5b917b/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/bliao/.gradle/caches/transforms-3/5d03ce44b7407a62b9251f71ee90ab88/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/bliao/.gradle/caches/transforms-3/5d03ce44b7407a62b9251f71ee90ab88/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/bliao/.gradle/caches/transforms-3/2f4c824c609645a84fb48412cc6bcca1/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/bliao/.gradle/caches/transforms-3/2f4c824c609645a84fb48412cc6bcca1/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/bliao/.gradle/caches/transforms-3/92050ae2684506fa6bd79a09912ac8e9/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/bliao/.gradle/caches/transforms-3/92050ae2684506fa6bd79a09912ac8e9/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/bliao/.gradle/caches/transforms-3/bcae19122bebd4805bbb1cf4308d0427/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/bliao/.gradle/caches/transforms-3/bcae19122bebd4805bbb1cf4308d0427/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/bliao/.gradle/caches/transforms-3/f033f7d8b9b5fa3cfa423bfd73c1facd/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/bliao/.gradle/caches/transforms-3/f033f7d8b9b5fa3cfa423bfd73c1facd/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/bliao/.gradle/caches/transforms-3/7baf7cff6d96096918791370721d2191/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/bliao/.gradle/caches/transforms-3/7baf7cff6d96096918791370721d2191/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bliao/.gradle/caches/transforms-3/a3db49a19193985b98dba7862d5aacca/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bliao/.gradle/caches/transforms-3/a3db49a19193985b98dba7862d5aacca/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/bliao/.gradle/caches/transforms-3/31cf146fb0c363e600f8d8254795b093/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/bliao/.gradle/caches/transforms-3/31cf146fb0c363e600f8d8254795b093/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/bliao/.gradle/caches/transforms-3/766653cd0e1023edda7098bd7ab9e0c0/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/bliao/.gradle/caches/transforms-3/766653cd0e1023edda7098bd7ab9e0c0/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bliao/.gradle/caches/transforms-3/de10287399df374a5a4b37426704c04d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bliao/.gradle/caches/transforms-3/de10287399df374a5a4b37426704c04d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bliao/.gradle/caches/transforms-3/e8cfb404745fb631fdd02a7ab43c0e8a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bliao/.gradle/caches/transforms-3/e8cfb404745fb631fdd02a7ab43c0e8a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bliao/.gradle/caches/transforms-3/cc7854e8af27f0d7354cd6173cf1054c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bliao/.gradle/caches/transforms-3/cc7854e8af27f0d7354cd6173cf1054c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bliao/.gradle/caches/transforms-3/d7d410ecb54579e1473e0d4be42ec03e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bliao/.gradle/caches/transforms-3/d7d410ecb54579e1473e0d4be42ec03e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bliao/.gradle/caches/transforms-3/c5d31be5e7858d792bf14a0dcf5b17b3/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bliao/.gradle/caches/transforms-3/c5d31be5e7858d792bf14a0dcf5b17b3/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bliao/.gradle/caches/transforms-3/0fd43e6be134604e3cf9f531421b6a67/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bliao/.gradle/caches/transforms-3/0fd43e6be134604e3cf9f531421b6a67/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bliao/.gradle/caches/transforms-3/6c0877f3bb35f52998565b055cfd86b3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bliao/.gradle/caches/transforms-3/6c0877f3bb35f52998565b055cfd86b3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bliao/.gradle/caches/transforms-3/c948c48bd048a835be1797babc72c083/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bliao/.gradle/caches/transforms-3/c948c48bd048a835be1797babc72c083/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bliao/.gradle/caches/transforms-3/f62ef8f6a4f8e4cf6e1ae423c7f72529/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bliao/.gradle/caches/transforms-3/f62ef8f6a4f8e4cf6e1ae423c7f72529/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
 		ADDED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bliao/.gradle/caches/transforms-3/96b7360f407bd15203a8192c74a4f265/transformed/constraintlayout-2.1.4/AndroidManifest.xml:7:9-38
@@ -147,3 +232,39 @@ INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/Androi
 		INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml
 		ADDED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.2] /Users/bliao/.gradle/caches/transforms-3/27ba97aa5ce3d074aa5f399e09f7e9ad/transformed/room-runtime-2.5.2/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.2] /Users/bliao/.gradle/caches/transforms-3/27ba97aa5ce3d074aa5f399e09f7e9ad/transformed/room-runtime-2.5.2/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.2] /Users/bliao/.gradle/caches/transforms-3/27ba97aa5ce3d074aa5f399e09f7e9ad/transformed/room-runtime-2.5.2/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.2] /Users/bliao/.gradle/caches/transforms-3/27ba97aa5ce3d074aa5f399e09f7e9ad/transformed/room-runtime-2.5.2/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.2] /Users/bliao/.gradle/caches/transforms-3/27ba97aa5ce3d074aa5f399e09f7e9ad/transformed/room-runtime-2.5.2/AndroidManifest.xml:25:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/bliao/.gradle/caches/transforms-3/96efce373b4fa7426f61ff97cc5b917b/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/bliao/.gradle/caches/transforms-3/96efce373b4fa7426f61ff97cc5b917b/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/bliao/.gradle/caches/transforms-3/31cf146fb0c363e600f8d8254795b093/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/bliao/.gradle/caches/transforms-3/31cf146fb0c363e600f8d8254795b093/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/bliao/.gradle/caches/transforms-3/617a2dca1217917092935cebbe42f68f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/bliao/.gradle/caches/transforms-3/96efce373b4fa7426f61ff97cc5b917b/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/bliao/.gradle/caches/transforms-3/96efce373b4fa7426f61ff97cc5b917b/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/bliao/.gradle/caches/transforms-3/96efce373b4fa7426f61ff97cc5b917b/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

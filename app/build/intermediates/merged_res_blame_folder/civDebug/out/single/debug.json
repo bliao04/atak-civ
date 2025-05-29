@@ -22,5 +22,13 @@
     {
         "merged": "/Users/bliao/tak/atak-civ/plugins/genuasplugin/app/build/intermediates/res/merged/civ/debug/drawable_ic_launcher.png.flat",
         "source": "/Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bliao/tak/atak-civ/plugins/genuasplugin/app/build/intermediates/res/merged/civ/debug/layout_ac_layout.xml.flat",
+        "source": "/Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/res/layout/ac_layout.xml"
+    },
+    {
+        "merged": "/Users/bliao/tak/atak-civ/plugins/genuasplugin/app/build/intermediates/res/merged/civ/debug/layout_component_card.xml.flat",
+        "source": "/Users/bliao/tak/atak-civ/plugins/genuasplugin/app/src/main/res/layout/component_card.xml"
     }
 ]

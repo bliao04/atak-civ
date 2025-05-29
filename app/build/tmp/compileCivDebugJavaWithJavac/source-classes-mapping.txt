@@ -1,16 +1,35 @@
+com/atakmap/android/genuasplugin/adapters/ComponentAdapter.java
+ com.atakmap.android.genuasplugin.adapters.ComponentAdapter
+ com.atakmap.android.genuasplugin.adapters.ComponentAdapter$ComponentViewHolder
+com/atakmap/android/genuasplugin/plugin/PluginNativeLoader.java
+ com.atakmap.android.genuasplugin.plugin.PluginNativeLoader
+com/atakmap/android/genuasplugin/plugin/support/AbstractPluginTool.java
+ com.atakmap.android.genuasplugin.plugin.support.AbstractPluginTool
+com/atakmap/android/genuasplugin/db/ComponentEntity.java
+ com.atakmap.android.genuasplugin.db.ComponentEntity
+com/atakmap/android/genuasplugin/adapters/Component.java
+ com.atakmap.android.genuasplugin.adapters.Component
+com/atakmap/android/genuasplugin/plugin/support/AbstractPluginLifecycle.java
+ com.atakmap.android.genuasplugin.plugin.support.AbstractPluginLifecycle
+com/atakmap/android/genuasplugin/db/ComponentDatabase.java
+ com.atakmap.android.genuasplugin.db.ComponentDatabase
+ com.atakmap.android.genuasplugin.db.ComponentDatabase$1
+com/atakmap/android/genuasplugin/db/ComponentViewModel.java
+ com.atakmap.android.genuasplugin.db.ComponentViewModel
 com/atakmap/android/genuasplugin/plugin/BuildConfig.java
  com.atakmap.android.genuasplugin.plugin.BuildConfig
 com/atakmap/android/genuasplugin/DropDownReceiver.java
  com.atakmap.android.genuasplugin.DropDownReceiver
-com/atakmap/android/genuasplugin/plugin/PluginNativeLoader.java
- com.atakmap.android.genuasplugin.plugin.PluginNativeLoader
+ com.atakmap.android.genuasplugin.DropDownReceiver$1
 com/atakmap/android/genuasplugin/plugin/GenUASTool.java
  com.atakmap.android.genuasplugin.plugin.GenUASTool
-com/atakmap/android/genuasplugin/plugin/support/AbstractPluginTool.java
- com.atakmap.android.genuasplugin.plugin.support.AbstractPluginTool
+com/atakmap/android/genuasplugin/db/ComponentRepository.java
+ com.atakmap.android.genuasplugin.db.ComponentRepository
+com/atakmap/android/genuasplugin/db/ComponentDAO.java
+ com.atakmap.android.genuasplugin.db.ComponentDAO
+com/atakmap/android/genuasplugin/AddComponentDropDown.java
+ com.atakmap.android.genuasplugin.AddComponentDropDown
 com/atakmap/android/genuasplugin/MapComponent.java
  com.atakmap.android.genuasplugin.MapComponent
 com/atakmap/android/genuasplugin/plugin/Lifecycle.java
  com.atakmap.android.genuasplugin.plugin.Lifecycle
-com/atakmap/android/genuasplugin/plugin/support/AbstractPluginLifecycle.java
- com.atakmap.android.genuasplugin.plugin.support.AbstractPluginLifecycle

@@ -4,7 +4,7 @@
             "outputFile": "/Users/bliao/tak/atak-civ/plugins/genuasplugin/app/build/intermediates/incremental/mergeCivDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/bliao/.gradle/caches/transforms-3/35367551c148565f1c4994c6bb77357b/transformed/appcompat-1.2.0/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/bliao/.gradle/caches/transforms-3/3e0b088ff3e6971d0beb2aa75d663080/transformed/appcompat-1.5.1/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/setCallSignTV"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:text="Set Call Sign: "
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <com.atakmap.android.gui.EditText
+        android:id="@+id/setCallSignET"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginTop="4dp"
+        android:hint="Enter call sign here"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@+id/setCallSignTV"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <TextView
+        android:id="@+id/setTypeTV"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:text="Set Type: "
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/setCallSignTV"/>
+
+    <com.atakmap.android.gui.EditText
+        android:id="@+id/setTypeET"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginTop="4dp"
+        android:hint="Enter type here"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@+id/setTypeTV"
+        app:layout_constraintTop_toBottomOf="@id/setCallSignET"/>
+
+    <TextView
+        android:id="@+id/setLongTV"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:text="Set Longitude: "
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/setTypeTV"/>
+
+    <com.atakmap.android.gui.EditText
+        android:id="@+id/setLongET"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginTop="4dp"
+        android:hint="Enter longitude here"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@+id/setLongTV"
+        app:layout_constraintTop_toBottomOf="@id/setTypeET"/>
+
+    <TextView
+        android:id="@+id/setLatTV"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:text="Set Longitude: "
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/setLongTV"/>
+
+    <com.atakmap.android.gui.EditText
+        android:id="@+id/setLatET"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginTop="4dp"
+        android:hint="Enter longitude here"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@+id/setLatTV"
+        app:layout_constraintTop_toBottomOf="@id/setLongET"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:text="Add to Database"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/btn_gray"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/setLatTV" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
