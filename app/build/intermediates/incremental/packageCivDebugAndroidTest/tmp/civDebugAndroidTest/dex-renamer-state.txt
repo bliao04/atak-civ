@@ -1,4 +1,4 @@
-#Thu May 29 15:33:09 EDT 2025
+#Fri May 30 08:18:40 EDT 2025
 base.1=/Users/bliao/tak/atak-civ/plugins/genuasplugin/app/build/intermediates/dex/civDebugAndroidTest/mergeProjectDexCivDebugAndroidTest/10/classes.dex
 path.1=10/classes.dex
 base.0=/Users/bliao/tak/atak-civ/plugins/genuasplugin/app/build/intermediates/dex/civDebugAndroidTest/mergeProjectDexCivDebugAndroidTest/0/classes.dex

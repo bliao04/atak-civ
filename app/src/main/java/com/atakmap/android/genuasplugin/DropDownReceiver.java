@@ -51,8 +51,8 @@ public class DropDownReceiver extends com.atakmap.android.dropdown.DropDownRecei
                 Log.d(TAG, "Add component clicked");
                 Intent intent = new Intent();
                 intent.setAction(AddComponentDropDown.SHOW_AC_WINDOW);
-                AtakBroadcast.getInstance().sendBroadcast(intent);
-                //getMapView().getContext().startActivity(intent);
+                //AtakBroadcast.getInstance().sendBroadcast(intent);
+                getMapView().getContext().startActivity(intent);
             }
         });
     }
