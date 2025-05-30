@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.atakmap.android.genuasplugin.plugin"
-4    android:versionCode="1748548253"
-5    android:versionName="1.0 (f5c10224) - [4.6.0]" >
+4    android:versionCode="1748607646"
+5    android:versionName="1.0 (6bf16e63) - [4.6.0]" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"

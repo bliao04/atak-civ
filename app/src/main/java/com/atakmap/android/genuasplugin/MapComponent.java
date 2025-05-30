@@ -19,6 +19,8 @@ public class MapComponent extends DropDownMapComponent {
 
     private DropDownReceiver ddr;
 
+    private AddComponentDropDown acdd;
+
     public void onCreate(final Context context, Intent intent, final MapView view) {
 
         context.setTheme(R.style.ATAKPluginTheme);
@@ -26,10 +28,17 @@ public class MapComponent extends DropDownMapComponent {
         pluginContext = context;
 
         ddr = new DropDownReceiver(view, context);
-        Log.d(TAG, "registering the plugin filter");
+        Log.d(TAG, "registering the plugin filter for main window");
         DocumentedIntentFilter ddFilter = new DocumentedIntentFilter();
         ddFilter.addAction(DropDownReceiver.SHOW_PLUGIN);
         registerDropDownReceiver(ddr, ddFilter);
+
+        acdd = new AddComponentDropDown(view, context);
+        Log.d(TAG, "registering the plugin filter for add window");
+        DocumentedIntentFilter acddFilter = new DocumentedIntentFilter();
+        acddFilter.addAction(AddComponentDropDown.SHOW_AC_WINDOW);
+        registerDropDownReceiver(acdd, acddFilter);
+
     }
 
     @Override
